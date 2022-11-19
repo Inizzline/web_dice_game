@@ -1,0 +1,47 @@
+
+.container {
+    text-align: center;
+    margin: auto;
+    width: 70%;
+}
+
+.dye {
+    text-align: center;
+    display: inline-block;
+}
+
+.img1 {
+    width: 85%;
+}
+
+.img2 {
+    width: 85%;
+}
+
+.footer {
+    font-family: "Handlee";
+    margin-top: 13%;
+    text-align: center;
+    color: #929AAB;
+}
+
+
+h1 {
+    margin: 25px;
+    font-family: "Sofia";
+    text-shadow: 5px 0 #232931;
+    font-size: 7.5rem;
+    font-weight: bold;
+    color: #32E0C4;
+}
+
+body {
+    background-color: #393E46;
+}
+
+p {
+    font-family: "Handlee";
+    font-size: 1.5rem;
+    color: #41AEA9;
+
+}
